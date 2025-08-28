@@ -26,9 +26,9 @@ Check out the deployed version here:
 ---
 
 ##  Project Structure
-Sign Up/
-index.html # Main HTML file with the form
-style.css # Styling for layout, colors, typography
+- **Sign Up/**
+- **index.html** 
+- **style.css** 
 
 ---
 
